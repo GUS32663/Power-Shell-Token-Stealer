@@ -81,27 +81,11 @@ function Cleanup {
 Cleanup
 ```
 
-# Need Help?
-- Join our server https://discord.com/invite/batch
-
-# License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/kdot227/Powershell-Token-Grabber/blob/main/LICENSE) file for details
-
 # Disclaimer
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
 You bear the full responsibility of your actions and acknowledge that this tool was created for educational purposes only.
 This tool's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use.
 By using this software, you automatically agree to the above.
 
-# Donate
-
-btc = bc1qm9g6l82mcsryfuzlvps29fmcfwx7244kuxxkay \
-ltc = ltc1qzywkdqyzj0x6p97mh3uhmwhl0v94fa5363nx3j \
-eth = 0x6be64aC1eC6616866323CdD094B8834066A95854
-
-# Credits
-- https://github.com/Purp1eW0lf
-- https://github.com/KDot227
-- https://github.com/Chainski
 
 
